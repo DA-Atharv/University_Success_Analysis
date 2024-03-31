@@ -8,7 +8,7 @@ The University Success Analysis project delves into the intricate landscape of h
 
 # Key Highlights:
 1)Utilized Power BI to create interactive dashboards for year analysis, university analysis, country analysis, and ranking analysis, offering stakeholders a comprehensive view of higher education metrics.
-2)Employed SQL queries to extract and analyze data on university rankings, criteria weights, and demographic trends, providing deeper insights into the factors influencing academic success.
++ 2)Employed SQL queries to extract and analyze data on university rankings, criteria weights, and demographic trends, providing deeper insights into the factors influencing academic success.
 3)Leveraged Excel charts and visualizations to illustrate correlations between ranking scores, student demographics, and institutional performance, facilitating data-driven decision-making in academia.
 4)Addressed exploratory data analysis (EDA) problems to uncover correlations between a country's GDP, population, and the number of universities, as well as trends in university rankings and criteria weights over time.
 5)Ultimately, the project aims to empower stakeholders in the higher education sector with actionable insights to enhance institutional performance, drive strategic initiatives, and foster academic excellence.
