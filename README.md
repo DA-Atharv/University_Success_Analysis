@@ -8,6 +8,7 @@ The University Success Analysis project delves into the intricate landscape of h
 
 # Entity Relationship (ER) Diagram:
 ![image](https://github.com/DA-Atharv/University_Success_Analysis/assets/159448408/58188e28-a79c-4019-81d7-8fc12d61cf1f)
+
 # Dashboard:
 ## Country Analysis Dashboard:
 ![image](https://github.com/DA-Atharv/University_Success_Analysis/assets/159448408/8abd47a3-24d4-47cf-a7c3-66bf846c6718)
