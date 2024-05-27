@@ -1,4 +1,5 @@
 # University_Success_Analytics:
+
 # Overview:
 The University Success Analysis project is a comprehensive exploration of higher education dynamics using data analytics techniques such as Power BI, SQL, and Excel. The structured dataset, combined with MECE analysis and dynamic Power BI visualizations, enables a comprehensive understanding of the factors influencing university success. This project aims to provide insights into various aspects of universities, including rankings, demographics, and performance metrics, to facilitate informed decision-making in academia.
 
